@@ -1,0 +1,24 @@
+ Line1:#c
+       ^
+	Error: invalid symbol'#'.(At Position: 1.)
+
+ Line7:        while(!false ||
+                            ^
+	Error: invalid symbol'|'.(At Position: 22.)
+
+ Line13:class# 
+             ^
+	Error: invalid symbol'#'.(At Position: 6.)
+
+ Line15:    int$ 
+               ^
+	Error: invalid symbol'$'.(At Position: 8.)
+
+ Line17:    $i
+            ^
+	Error: invalid symbol'$'.(At Position: 5.)
+
+ Line52:        if(messagelist.length > 
+                                      ^
+	Error: invalid symbol'>'.(At Position: 31.)
+
